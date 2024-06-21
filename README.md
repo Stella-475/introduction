@@ -6,7 +6,7 @@ Ini adalah repositori sederhana untuk demoin penggunaan `git` dan `github`.
 
 Untuk mengikuti tutorial ini, pastiin kalian udah ngelakuin hal berikut:
 
-- install `git` di komputer kalian;
+- install `git` di komputer kalian. kalau belum, bisa liat instruksinya di [sini](install-git.md);
 - membuat akun di `github`, kalau belum bikin dulu [di sini](https://github.com);
 - join as member di [MEKANIK KRAI ITB](https://github.com/MEKANIK-KRAI-ITB);
 - baca dulu deskripsi singkat di [docs](https://docs.google.com/document/d/1UsCWchh2lQq5ZBTs_hub72ul9sKynQnBjRGFXyuZZMU/edit?usp=sharing) yang udah dishare di grup line;
