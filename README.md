@@ -85,4 +85,4 @@ Buat liat file apa aja yang udah keubah, bisa liat di tab source control di sebe
 
 ## Finally
 
-Silakan buka file `task.md`, kerjain sesuai instruksi. Good luck!
+Silakan buka file [task.md](task.md), kerjain sesuai instruksi. Good luck!
