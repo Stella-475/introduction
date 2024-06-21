@@ -23,6 +23,13 @@ Sebagai tugas pertama, ini ga akan dibuat terlalu sulit. Kalian cuma perlu buat 
     git push
     ```
 
+    note: kalau kalian baru pertama kali push, mungkin harus run dulu, kalau udah pernah mah ga perlu.
+
+    ```bash
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    ```
+
 8. Setelah itu, cek apakah nama kalian sudah muncul di repository ini di GitHub.
 9. Selesai.
 
