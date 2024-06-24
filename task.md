@@ -36,4 +36,4 @@ Sebagai tugas pertama, ini ga akan dibuat terlalu sulit. Kalian cuma perlu buat 
 ## Nama-nama Mekanik KRAI {#nama-mekanik}
 
 1. Adi Haditya Nursyam - MS'22.
-2. lanjutin...
+2. Christella Cantika Putri - FTMD'23
